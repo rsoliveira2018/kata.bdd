@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace WebApi8.Data;
+namespace Biblioteca.Data;
 
 public class AppDbContext : DbContext
 {

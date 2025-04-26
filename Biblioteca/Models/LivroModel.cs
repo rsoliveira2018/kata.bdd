@@ -1,4 +1,4 @@
-﻿namespace WebApi8.Models;
+﻿namespace Biblioteca.Models;
 
 public class LivroModel
 {

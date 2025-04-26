@@ -1,4 +1,4 @@
-﻿namespace WebApi8.Dto.Livro;
+﻿namespace Biblioteca.Dto.Livro;
 
 public class LivroCriacaoDto
 {

@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApi8.Dto.Autor;
-using WebApi8.Models;
-using WebApi8.Services.Autor;
+using Biblioteca.Dto.Autor;
+using Biblioteca.Models;
+using Biblioteca.Services.Autor;
 
-namespace WebApi8.Controllers;
+namespace Biblioteca.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]

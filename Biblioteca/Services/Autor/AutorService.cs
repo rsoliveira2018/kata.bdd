@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApi8.Data;
-using WebApi8.Dto.Autor;
-using WebApi8.Models;
+using Biblioteca.Data;
+using Biblioteca.Dto.Autor;
+using Biblioteca.Models;
 
-namespace WebApi8.Services.Autor;
+namespace Biblioteca.Services.Autor;
 
 public class AutorService : IAutorInterface
 

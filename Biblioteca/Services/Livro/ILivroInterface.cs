@@ -1,7 +1,7 @@
-﻿using WebApi8.Dto.Livro;
-using WebApi8.Models;
+﻿using Biblioteca.Dto.Livro;
+using Biblioteca.Models;
 
-namespace WebApi8.Services.Livro;
+namespace Biblioteca.Services.Livro;
 
 public interface ILivroInterface
 {

@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using WebApi8.Data;
-using WebApi8.Services.Autor;
-using WebApi8.Services.Livro;
+using Biblioteca.Data;
+using Biblioteca.Services.Autor;
+using Biblioteca.Services.Livro;
 
 var builder = WebApplication.CreateBuilder(args);
 

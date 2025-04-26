@@ -1,4 +1,4 @@
-# WebApi8_Biblioteca - Gerenciamento de Autores e Livros
+# Biblioteca - Gerenciamento de Autores e Livros
 
 Esta API permite gerenciar autores e seus respectivos livros, oferecendo operações para listar, buscar, criar, editar e excluir ambos.
 

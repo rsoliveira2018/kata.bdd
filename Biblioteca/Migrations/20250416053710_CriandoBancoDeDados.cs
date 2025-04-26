@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace WebApi8.Migrations
+namespace Biblioteca.Migrations
 {
     /// <inheritdoc />
     public partial class CriandoBancoDeDados : Migration

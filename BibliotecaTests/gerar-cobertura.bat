@@ -43,3 +43,4 @@ for /d %%d in ("%cd%\TestResults\*") do (
 )
 
 :fim
+pause

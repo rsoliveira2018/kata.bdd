@@ -1,11 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApi8.Data;
-using WebApi8.Dto.Livro;
-using WebApi8.Models;
-using WebApi8.Services.Livro;
+using Biblioteca.Data;
+using Biblioteca.Dto.Livro;
+using Biblioteca.Models;
+using Biblioteca.Services.Livro;
 using Xunit;
 
-namespace WebApi8_UnitTesting.ServicesTests;
+namespace BibliotecaTests.ServicesTests;
 
 public class LivroServiceTests : IDisposable
 {

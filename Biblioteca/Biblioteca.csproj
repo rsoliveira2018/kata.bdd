@@ -17,7 +17,11 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Reqnroll" Version="2.4.0" />
+    <PackageReference Include="Reqnroll.Tools.MsBuild.Generation" Version="2.4.0" />
+    <PackageReference Include="Reqnroll.xUnit" Version="2.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.1" />
   </ItemGroup>
 
 </Project>

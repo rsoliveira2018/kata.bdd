@@ -1,4 +1,4 @@
-﻿namespace WebApi8.Dto.Autor;
+﻿namespace Biblioteca.Dto.Autor;
 
 public class AutorEdicaoDto
 {

@@ -1,11 +1,11 @@
 using Microsoft.EntityFrameworkCore;
-using WebApi8.Data;
-using WebApi8.Dto.Autor;
-using WebApi8.Models;
-using WebApi8.Services.Autor;
+using Biblioteca.Data;
+using Biblioteca.Dto.Autor;
+using Biblioteca.Models;
+using Biblioteca.Services.Autor;
 using Xunit;
 
-namespace WebApi8_UnitTesting.ServicesTests;
+namespace BibliotecaTests.ServicesTests;
 
 public class AutorServiceTests : IDisposable
 {

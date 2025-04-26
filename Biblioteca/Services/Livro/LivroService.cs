@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApi8.Data;
-using WebApi8.Dto.Livro;
-using WebApi8.Models;
+using Biblioteca.Data;
+using Biblioteca.Dto.Livro;
+using Biblioteca.Models;
 
-namespace WebApi8.Services.Livro;
+namespace Biblioteca.Services.Livro;
 
 public class LivroService : ILivroInterface
 
